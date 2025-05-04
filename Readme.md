@@ -87,10 +87,10 @@ The system comes with the following pre-configured menu items:
 ##Images
 
 ![Login Form](LoginForm.png "Login Form")
-![Registration Form](RegistrationForm.png "Registration Form")
+![Registration Form](RegisterForm.png "Registration Form")
 ![Registration Successful](RegistrationSuccessful.png "Registration Successful")
 ![Order System](OrderSystem.png "Order System")
-![Order & Discount](Order&Discount.png "Order & Discount")
+![Order & Discount](Ordering&Discount.png "Order & Discount")
 ![Order Successful](OrderSuccessful.png "Order Successful")
 ![Receipt](Receipt.png "Receipt")
 ![Print Receipt](Print.png "Print Receipt")
